@@ -1,0 +1,206 @@
+a:link {
+  text-decoration: none;
+
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+#main_container{
+  background-color: lightgrey;
+  width: 100vw;
+  height: 200vh;
+
+}
+#topmenu {
+  width: 100vw;
+  height: 50px;
+  background-color: grey;
+  position: fixed;
+  font-family: 'Sintony', sans-serif;
+  z-index: 3;
+}
+
+#definition {
+  margin: 20px;
+  width: 19.5vw;
+  height: 21px;
+  top: 0px;
+  position: fixed;
+  border-bottom: 2px solid white;
+}
+
+#examples {
+  margin: 20px;
+  width: 7vw;
+  height: 21px;
+  left: 45%;
+  top: 0px;
+  position: fixed;
+  border-bottom: 2px solid white;
+
+}
+
+#alt {
+  margin: 20px;
+  width: 8.5vw;
+  height: 21px;
+  left: 80%;
+  top: 0px;
+  position: fixed;
+  border-bottom: 2px solid white;
+
+}
+
+#content {
+  width: 50vw;
+  height: 60vh;
+  background-color: #A9A8AA;
+  position: fixed;
+  top: 190px;
+  left: 25%;
+  font-family: 'Sintony', sans-serif;
+  font-size: 25px;
+  padding: 25px;
+}
+
+#bench {
+  width: 10px;
+  height: 10px;
+  margin-left: 10px;
+  left: 34%;
+  top: 45%;
+  position: fixed;
+}
+
+#topmenu2 {
+  width: 100vw;
+  height: 50px;
+  background-color: grey;
+  position: fixed;
+  font-family: 'Sintony', sans-serif;
+  z-index: 2;
+}
+
+#content2 {
+  width: 10vw;
+  height: 160vh;
+  position: relative;
+  top: 100px;
+  left: 10%;
+  z-index: 0;
+}
+
+#bench1 {
+width: 400px;
+height: 300px;
+position: relative;
+top: 5%;
+left: 10%;
+z-index: 1;
+}
+
+#bench1text {
+width: 400px;
+height: 20px;
+position: relative;
+top: 5%;
+left: 110%;
+font-family: 'Sintony', sans-serif;
+font-size: 24px;
+
+}
+#bench2 {
+width: 100px;
+height: 100px;
+position: relative;
+top: 5%;
+left: 450%;
+}
+
+#bench2text {
+width: 400px;
+height: 100px;
+position: relative;
+top: 100%;
+left: -440%;
+font-family: 'Sintony', sans-serif;
+font-size: 24px;
+
+}
+#bench3 {
+width: 100px;
+height: 100px;
+position: relative;
+top: 30%;
+left: 10%;
+}
+
+#bench3text {
+width: 400px;
+height: 100px;
+position: relative;
+top: 95%;
+left: 450%;
+font-family: 'Sintony', sans-serif;
+font-size: 24px;
+}
+
+#topmenu3 {
+  width: 100vw;
+  height: 50px;
+  background-color: grey;
+  position: fixed;
+  font-family: 'Sintony', sans-serif;
+  z-index: 2;
+
+}
+
+#content3{
+  width: 60vw;
+  height: 100vh;
+  position: fixed;
+  top: 10px;
+  left: 19%;
+  background-color: #A9A8AA;
+}
+
+#content3background {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 10px;
+    left: 0.65%;
+    background-color: #c6c5c7;
+
+
+}
+#altpic {
+width: 100px;
+height: 100px;
+position: fixed;
+top: 20%;
+left: 30%;
+}
+
+#alttitle {
+  width: 450px;
+  height: 50px;
+  position: fixed;
+  top: 12%;
+  left: 34%;
+  font-family: 'Sintony', sans-serif;
+  font-size: 20px;
+}
+
+#alttext {
+  width: 580px;
+  height: 100px;
+  position: fixed;
+  top: 65%;
+  left: 28%;
+  font-family: 'Sintony', sans-serif;
+  font-size: 15px;
+}
